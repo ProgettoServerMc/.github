@@ -12,7 +12,7 @@ Ecco una panoramica dei progetti attivi:
 
 ## 💬 Comunicazioni e Supporto
 
-Per qualsiasi domanda, discussione o suggerimento, unisciti al nostro [server Discord](https://discord.gg/fw7u7Jj5u2) o visita la sezione **Discussions** di ogni progetto.
+Per qualsiasi domanda, discussione o suggerimento, unisciti al nostro [server Discord](...) o visita la sezione **Discussions** di ogni progetto.
 
 ## 📜 Licenza
 
